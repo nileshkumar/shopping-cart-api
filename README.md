@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
 * System dependencies
 
-* Configuration
+* Node version: v18.11.0
 
-* Database creation
+* NPM version: 8.19.2
 
-* Database initialization
+* YARN version: 1.22.19
 
-* How to run the test suite
+* Ruby version: ruby 3.1.2p20
 
-* Services (job queues, cache servers, search engines, etc.)
+* Rails version: Rails 7.0.4
 
-* Deployment instructions
+* Application setup: git clone git@github.com:nileshkumar/shopping-cart-api.git
 
-* ...
+* Gem setup: bundle install
+
+* Run the application: rails server
+
+* Run on browser: http://localhost:3000/shops
+
